@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Documents\\Condicionais2\\Exercicio3\\Exercicio3.csproj": {}
+    "C:\\Users\\mrodr\\Documents\\Condicionais2\\Exercicio3\\Exercicio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Documents\\Condicionais2\\Exercicio3\\Exercicio3.csproj": {
+    "C:\\Users\\mrodr\\Documents\\Condicionais2\\Exercicio3\\Exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Documents\\Condicionais2\\Exercicio3\\Exercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\mrodr\\Documents\\Condicionais2\\Exercicio3\\Exercicio3.csproj",
         "projectName": "Exercicio3",
-        "projectPath": "C:\\Users\\dev\\Documents\\Condicionais2\\Exercicio3\\Exercicio3.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Documents\\Condicionais2\\Exercicio3\\obj\\",
+        "projectPath": "C:\\Users\\mrodr\\Documents\\Condicionais2\\Exercicio3\\Exercicio3.csproj",
+        "packagesPath": "C:\\Users\\mrodr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrodr\\Documents\\Condicionais2\\Exercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

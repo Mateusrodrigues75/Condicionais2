@@ -13,6 +13,8 @@ namespace Exercicio3
                 double novoSalario = (0.3*salario) + salario;
                 Console.WriteLine(novoSalario);
                 
+            }else{
+                Console.WriteLine("Você não tem direito ao aumento.");
             }
         }
     }
